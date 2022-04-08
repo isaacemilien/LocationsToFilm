@@ -1,0 +1,34 @@
+.bg {
+    /* The image used */
+    background-image: url("imgs/bo.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: contain;
+  }
+  
+  .html,body::-webkit-scrollbar {/* Google chrome */ 
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    display: none;
+  }
+  
+  .quote-bg {
+    /* The image used */
+    background-image: url("imgs/doo.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: contain;
+  }
+  .btn 
