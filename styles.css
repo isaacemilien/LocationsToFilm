@@ -32,6 +32,65 @@
   object-fit: contain;
 }
 
+.contact-bg {
+  /* The image used */
+  background-image: url("imgs/contact.jpg");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+}
+
+.about-bg {
+  /* The image used */
+  background-image: url("imgs/bo.jpg");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+}
+.azer-bg {
+  /* The image used */
+  background-image: url("imgs/azer_03.jpg");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+}
+.inter-bg {
+  /* The image used */
+  background-image: url("imgs/uae_02.jfif");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+}
+
+
 .bi {
   vertical-align: -.125em;
   fill: currentColor;
