@@ -1,6 +1,10 @@
+:root{
+  --image: url("imgs/azer.jpg")
+}
+
 .bg {
   /* The image used */
-  background-image: url("imgs/azer.jpg");
+  background-image: url();
 
   /* Full height */
   height: 100%;
@@ -18,6 +22,12 @@
   display: none;
 }
 
+.bg bg{
+  background-image: inherit;
+}
+
+
+
 .quote-bg {
   /* The image used */
   background-image: url("imgs/doo.jpg");
@@ -32,11 +42,25 @@
   object-fit: contain;
 }
 
+.rental-bg {
+  /* The image used */
+  background-image: url("imgs/doo.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+}
+
+
 .contact-bg {
   /* The image used */
   background-image: url("imgs/contact.jpg");
   
-
   /* Full height */
   height: 100%;
 
