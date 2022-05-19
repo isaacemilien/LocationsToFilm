@@ -15,7 +15,7 @@
           <div class="card-body">
             <h5 class="card-title">Azerbaijan</h5>
             <p class="card-text">Azerbaijan is a country located in the southern part of the Caucasus, at the crossroads of Southwest Asia and Southeastern Europe. It shares a border with Russia, Georgia, Armenia, Iran and its exclave with Turkey.</p>
-            <a href="./azerbaijan.html" class="btn btn-primary">Visit</a>
+            <a href="./azerbaijan.php" class="btn btn-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -25,7 +25,7 @@
           <div class="card-body">
             <h5 class="card-title">Poland</h5>
             <p class="card-text">Wander old medieval towns and gawp at the baroque architecture, taking in the charm as you walk through. With old-fashioned market squares and gothic ruins, you’ll soon notice yourself falling irreversibly in love with this country.</p>
-            <a href="./international.html" class="btn btn-primary">Visit</a>
+            <a href="./international.php" class="btn btn-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -35,7 +35,7 @@
           <div class="card-body">
             <h5 class="card-title">Russia</h5>
             <p class="card-text">Whether you're sipping on a cocktail in a glamorous rooftop bar in Moscow, gazing out from your Trans-Siberian, any Russian adventure is guaranteed to come with views to take your breath away. </p>
-            <a href="./international.html" class="btn btn-primary">Visit</a>
+            <a href="./international.php" class="btn btn-primary">Visit</a>
           </div>
         </div>
       </div>
