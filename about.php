@@ -1,18 +1,16 @@
 <?php include "header.php"; ?>
-    <div class="container-fluid">
-      <!-- Background -->
-      <div class="row bg h-100" style="background-image: url('imgs/azer.jpg')">
-        <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
-          <h1></h1>
-          <h1 class="fw-bold text-light">About Us</h1>
-          <p class=" text-light ">We have an extensive client portfolio and are extremely confident that we can meet all of your production needs.</p>
-        </div>
+  <div class="container-fluid">
+    <!-- Background -->
+    <div class="row bg h-100" style="background-image: url('imgs/azer.jpg')">
+      <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
+        <h1></h1>
+        <h1 class="fw-bold text-light">About Us</h1>
+        <p class=" text-light ">We have an extensive client portfolio and are extremely confident that we can meet all of your production needs.</p>
       </div>
-      <br>
-      <br>
-      <br>
+    </div>
+    <div class="row my-5">
       <div class="col d-flex justify-content-center">
-        <div class="card border- mb-3" style="max-width:1100px;">
+        <div class="card border" style="max-width:1100px;">
           <div class="row g-0">
             <div class="col-md-4">
               <img src="imgs/film.jpg" class="img-fluid rounded-start" alt="...">
@@ -31,4 +29,7 @@
         </div>
       </div>
     </div>
+
+
+  </div>
 <?php include "footer.php"; ?>
