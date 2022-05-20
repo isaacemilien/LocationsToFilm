@@ -82,16 +82,13 @@
               <h6 class="text-uppercase fw-bold">Contact</h6>
               <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
               <p>
-                <i class="fas fa-home mr-3"></i> Nariman,Baku,AZ1000, AZ
+                <i class="fas fa-home mr-3"></i> Ziya Bunyadov 1965, Chinar Park, Baku, AZ1000, Azerbaijan
               </p>
               <p>
                 <i class="fas fa-envelope mr-3"><a href = "mailto: Enquiries@LocationsToFilm.com"></i> Enquiries@LocationsToFilm.com</a>
               </p>
               <p>
-                <i class="fas fa-phone mr-3"></i> + 01 234 567 88
-              </p>
-              <p>
-                <i class="fas fa-print mr-3"></i> + 01 234 567 89
+                <i class="fas fa-phone mr-3"></i> +994 50 216 32 65
               </p>
             </div>
             <!-- Grid column -->
