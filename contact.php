@@ -1,17 +1,17 @@
 <?php include "header.php"; ?>
   <div class="container-fluid">
     <!-- Background -->
-    <div class="row bg h-100" style="background-image: url('imgs/contact.jpg')">
-        <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
+    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/contact.jpg')">
+        <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
           <h1 class="fw-bold text-light" >Contact Us</h1>
-          <p class=" text-light ">
+          <p class="text-light d-none d-lg-block">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam sequi vitae cupiditate, eum temporibus voluptatem beatae architecto atque, vel accusantium voluptas quam nemo neque quia deserunt. Quis obcaecati odio esse.
           </p>
         </div>
       </div>
     <!-- Office Location cards -->
     <div class="row justify-content-center m-5">
-      <div class="col-lg-4 d-flex justify-content-center">
+      <div class="col-lg-4 col-10 d-flex justify-content-center">
         <div>
           <h2>Azerbaijan</h2>
           <h5>Address:</h5>

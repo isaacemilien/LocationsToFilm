@@ -1,10 +1,10 @@
 <?php include "header.php"; ?>
   <div class="container-fluid">
     <!-- Background -->
-    <div class="row bg h-100" style="background-image: url('imgs/uae_02.jfif')">
-      <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
+    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/uae_02.jfif')">
+      <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
         <h1 class="fw-bold text-light">International</h1>
-        <p class=" text-light "> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis exercitationem dolorem, nihil libero, laudantium architecto est cum, mollitia maxime quam qui iste eius cupiditate esse hic fugiat fugit? Voluptatum, sequi! </p>
+        <p class="text-light d-none d-lg-block"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis exercitationem dolorem, nihil libero, laudantium architecto est cum, mollitia maxime quam qui iste eius cupiditate esse hic fugiat fugit? Voluptatum, sequi! </p>
       </div>
     </div>
   </div>
