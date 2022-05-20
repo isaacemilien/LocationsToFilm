@@ -45,8 +45,7 @@
     <div class="row bg h-100" style="background-image: url('imgs/doo.jpg')">
       <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
         <i class="fa-solid fa-quote-left text-white fs-3"></i>
-        <p class="text-light fst-italic fw-bold">“You've gotta dance like there's nobody watching.Love like you'll never be hurt.Sing like there's nobody listening, And live like it's heaven on earth.”</p>
-        <!-- <i class="fa-solid fa-quote-right text-white fs-2"></i> -->
+        <p class="text-light fst-italic fw-bold">“You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on Earth.”</p>
         <div class="text-white fw-bold mx-3">William W. Purkey </div>
         <div class="text-white  mx-3">Anesthesiologist in Winter Park, Florida</div>
       </div>

@@ -22,3 +22,9 @@
   vertical-align: -.125em;
   fill: currentColor;
 }
+
+/* Style lists */
+ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
