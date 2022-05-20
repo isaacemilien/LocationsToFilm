@@ -19,21 +19,33 @@
 
 <!-- <i class="fa-solid fa-video"></i> -->
 <!-- Navbar -->
-<div class="px-3 py-2 bg-dark text-white">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Ninth navbar example">
+    <div class="container-xl">
+      <a class="navbar-brand" href="index.php" >
+        <span class="fs-4 text-light"><span class="iconify" data-icon="oi:aperture" data-width="35" data-height="35"></span>&nbsp;&nbsp;Locations to Film</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07XL" aria-controls="navbarsExample07XL" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-      <div class="container bg-dark">
-        <header class="d-flex flex-wrap justify-content-center">
-          <a href="index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-            <span class="fs-4 text-light"><span class="iconify" data-icon="oi:aperture" data-width="35" data-height="35"></span>&nbsp;&nbsp;Locations to Film</span>
-          </a>
-    
-          <ul class="nav nav-pills text-light">
-            <li class="nav-item"><a href="azerbaijan.php" class="nav-link text-light">Azerbaijan</a></li>
-            <li class="nav-item"><a href="international.php" class="nav-link text-light">International</a></li>
-            <li class="nav-item"><a href="services.php" class="nav-link text-light">Services</a></li>
-            <li class="nav-item"><a href="about.php" class="nav-link text-light">About</a></li>
-            <li class="nav-item"><a href="contact.php" class="nav-link text-light">Contact</a></li>
-          </ul>
-        </header>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarsExample07XL">
+        <ul class="nav navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item px-2">
+            <a class="nav-link active" aria-current="page" href="azerbaijan.php">Azerbaijan</a>
+          </li>
+          <li class="nav-item px-2">
+            <a class="nav-link active" aria-current="page" href="international.php">International</a>
+          </li>
+          <li class="nav-item px-2">
+            <a class="nav-link active" aria-current="page" href="services.php">Services</a>
+          </li>
+          <li class="nav-item px-2">
+            <a class="nav-link active" aria-current="page" href="about.php">About</a>
+          </li>
+          <li class="nav-item px-2">
+            <a class="nav-link active" aria-current="page" href="contact.php">Contact</a>
+          </li>
+        </ul>
       </div>
     </div>
+  </nav>
