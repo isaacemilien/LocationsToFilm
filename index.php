@@ -42,8 +42,8 @@
     </div>
   </div>
   <div class="container-fluid">
-    <div class="row bg h-100" style="background-image: url('imgs/doo.jpg')">
-      <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
+    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/doo.jpg')">
+      <div class="col-lg-6 col-12 my-5 bg-dark p-5 m-5 text-light" style="--bs-bg-opacity: .5;">
         <i class="fa-solid fa-quote-left text-white fs-3"></i>
         <p class="text-light fst-italic fw-bold">“You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on Earth.”</p>
         <div class="text-white fw-bold mx-3">William W. Purkey </div>
