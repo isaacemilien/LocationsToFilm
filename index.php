@@ -25,7 +25,7 @@
           <div class="card-body">
             <h5 class="card-title">Poland</h5>
             <p class="card-text">Wander old medieval towns and gawp at the baroque architecture, taking in the charm as you walk through. With old-fashioned market squares and gothic ruins, you’ll soon notice yourself falling irreversibly in love with this country.</p>
-            <a href="./international.php" class="btn btn-primary">Visit</a>
+            <a href="./international.php" class="btn btn-primary" >Visit</a>
           </div>
         </div>
       </div>
