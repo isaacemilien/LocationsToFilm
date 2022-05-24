@@ -1,17 +1,9 @@
 <?php include 'header.php';?>
 
   <div class="container-fluid">
-    <!-- Background -->
-    <div class="row bg h-100" style="background-image: url('imgs/azer.jpg')">
-      <div class="col-6 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
-        <h1 class="fw-bold text-light">Locations</h1>
-        <p class=" text-light ">Azerbaijan is a new location for film industry, most of its unique pearls yet to be explored. With short distance between the cities and the countryside, all corners of the country are easily accessible.</p>
-      </div>
-    </div>
-  </div>
   <!--Carousel Start -->
 
-  <div class="container-lg my-3">
+  <div class="row">
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
@@ -23,21 +15,21 @@
         <!-- Wrapper for carousel items -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img style="object-fit: cover; overflow: hidden;"src="imgs/azer_02.jpg" class="d-block w-100" alt="Slide 1">
+                <img style="object-fit: cover; overflow: hidden;"src="imgs/russia.png" class="d-block w-100" alt="Slide 1">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Some demonstrative placeholder content for the first slide.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="imgs/pol.jpg" class="d-block w-100" alt="Slide 2">
+                <img src="imgs/russia.png" class="d-block w-100" alt="Slide 2">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Second slide label</h5>
                     <p>Some demonstrative placeholder content for the second slide.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="imgs/russia_06.jpg" class="d-block w-100" alt="Slide 3">
+                <img src="imgs/russia.png" class="d-block w-100" alt="Slide 3">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Third slide label</h5>
                     <p>Some demonstrative placeholder content for the third slide.</p>
