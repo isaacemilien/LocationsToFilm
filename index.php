@@ -8,34 +8,60 @@
         <p class="text-light d-none d-lg-block">Azerbaijan is a new location for film industry, most of its unique pearls yet to be explored. With short distance between the cities and the countryside, all corners of the country are easily accessible.</p>
       </div>
     </div>
-    <div class="row m-5 justify-content-center">
-      <div class="col-lg-4 d-flex justify-content-center">
-        <div class="card" style="width: 18rem;">
-          <img src="imgs/azer_02.jpg" width="100%" height="200" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Azerbaijan</h5>
-            <p class="card-text">Azerbaijan is a country located in the southern part of the Caucasus, at the crossroads of Southwest Asia and Southeastern Europe. It shares a border with Russia, Georgia, Armenia, Iran and its exclave with Turkey.</p>
-            <a href="./azerbaijan.php" class="btn btn-primary">Visit</a>
+  </div>
+    <!-- Location cards -->
+  <div class="album py-5">
+    <div class="container">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="imgs/azer_04.jpg" alt="">
+
+            <div class="card-body">
+              <!-- Header -->
+              <h2>Azerbaijan</h2>
+              <!-- Text -->
+              <p class="card-text">Azerbaijan is a country located in the southern part of the Caucasus, at the crossroads of Southwest Asia and Southeastern Europe. It shares a border with Russia, Georgia, Armenia, Iran and its exclave with Turkey.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button onclick="window.location.href=''" type="button" class="btn btn-sm btn-primary">View</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-4 d-flex justify-content-center">
-        <div class="card" style="width: 18rem;">
-          <img src="imgs/pol.jpg" width="100%" height="200" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Poland</h5>
-            <p class="card-text">Wander old medieval towns and gawp at the baroque architecture, taking in the charm as you walk through. With old-fashioned market squares and gothic ruins, you’ll soon notice yourself falling irreversibly in love with this country.</p>
-            <a href="./international.php" class="btn btn-primary" >Visit</a>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="imgs/poland.jpg" alt="">
+
+            <div class="card-body">
+              <!-- Header -->
+              <h2>Poland</h2>
+              <!-- Text -->
+              <p class="card-text">Wander old medieval towns and gawp at the baroque architecture, taking in the charm as you walk through. With old-fashioned market squares, you'll soon notice yourself falling irreversibly in love with this country.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-4 d-flex justify-content-center">
-        <div class="card" style="width: 18rem;">
-          <img src="imgs/russia_06.png" width="100%" height="200" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Russia</h5>
-            <p class="card-text">Whether you're sipping on a cocktail in a glamorous rooftop bar in Moscow, gazing out from your Trans-Siberian, any Russian adventure is guaranteed to come with views to take your breath away. </p>
-            <a href="./international.php" class="btn btn-primary">Visit</a>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="imgs/russia_06.png" alt="">
+
+            <div class="card-body">
+              <!-- Header -->
+              <h2>Russia</h2>
+              <p class="card-text">Whether you're sipping on a cocktail in a glamorous rooftop bar in Moscow, gazing out from your Trans-Siberian, any Russian adventure is guaranteed to come with views to take your breath away.</p>
+              <!-- Text -->
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -51,5 +77,5 @@
       </div>
     </div>
   </div>
-  </div>
+  
 <?php include "footer.php"; ?>
