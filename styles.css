@@ -29,3 +29,6 @@ ul {
   padding-left: 0;
 }
 
+.carousel .item {
+  height: 300px;
+}

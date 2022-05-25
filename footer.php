@@ -85,7 +85,7 @@
                 <i class="fas fa-home mr-3"></i> Ziya Bunyadov 1965, Chinar Park, Baku, AZ1000, Azerbaijan
               </p>
               <p>
-                <i class="fas fa-envelope mr-3"><a href = "mailto: Enquiries@LocationsToFilm.com"></i> Enquiries@LocationsToFilm.com</a>
+                <i class="fas fa-envelope mr-3 "><a href = "mailto: Enquiries@LocationsToFilm.com" class="text-light"></i> Enquiries@LocationsToFilm.com</a>
               </p>
               <p>
                 <i class="fas fa-phone mr-3"></i> +994 50 216 32 65
