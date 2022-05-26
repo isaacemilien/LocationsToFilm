@@ -33,8 +33,8 @@
             <!-- Grid column -->
             <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
               <!-- Content -->
-              <h6 class="text-uppercase fw-bold">Locations To Film</h6>
-              <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
+              <span class="fs-4 text-light"><span class="iconify" data-icon="oi:aperture" data-width="35" data-height="35"></span>&nbsp;&nbsp;Locations to Film</span>
+              <hr class="mb-4 mt-0 d-inline-block mx-auto" />
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates temporibus amet explicabo aliquid dolore quae velit sunt quibusdam. Modi, beatae.</p>
             </div>
             <!-- Grid column -->
@@ -98,7 +98,7 @@
       </section>
       <!-- Section: Links  -->
       <!-- Copyright -->
-      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)"> © 2020 Copyright: Locations To Film </div>
+      <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)"> © 2022 Copyright: Locations To Film </div>
       <!-- Copyright -->
     </footer>
     <!-- Footer end -->
