@@ -1,14 +1,49 @@
 <?php include 'header.php';?>
 
-  <div class="container-fluid">
-    <!-- Background -->
-    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/azer.jpg')">
-      <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
-        <h1 class="fw-bold text-light">Locations</h1>
-        <p class="text-light d-none d-lg-block">Azerbaijan is a new location for film industry, most of its unique pearls yet to be explored. With short distance between the cities and the countryside, all corners of the country are easily accessible.</p>
+  <!--Carousel Start -->
+  <div id="myCarousel" class="carousel slide h-500px" data-bs-ride="carousel">
+    <!-- Carousel indicators -->
+    <ol class="carousel-indicators">
+        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
+      </ol>
+
+    <!-- Wrapper for carousel items -->
+    <div class="carousel-inner" style = "height: 500px;">
+        <div class="carousel-item active" style = "height: 500px;">
+            <img style="object-fit: cover; overflow: hidden; height: 500px;"src="imgs/baku.jpg" class="d-block w-100" alt="Slide 1" >
+            <div class="carousel-caption d-none d-md-block text-light">
+              <h5>Azerbaijan</h5>
+              <p>Lorem ipsum dolor sit amet consectetur adipi sicing elit. Quibusdam, laudantium?  </p>
+
+            </div>
+          </div>
+          <div class="carousel-item" style = "height: 500px;">
+              <img src="imgs/warsaw.jpeg" class="d-block w-100" alt="Slide 2">
+              <div class="carousel-caption d-none d-md-block text-light">
+                  <h5>Poland</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, voluptatem.</p>
+              </div>
+          </div>
+          <div class="carousel-item" style = "height: 500px;" >
+              <img src="imgs/ruski.jpg" class="d-block w-100 img-fluid" alt="Slide 3">
+              <div class="carousel-caption d-none d-md-block text-light">
+                  <h5>Russia</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, est.</p>
+              </div>
+          </div>
       </div>
-    </div>
+
+      <!-- Carousel controls -->
+      <a class="carousel-control-prev" href="#myCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#myCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+      </a>
   </div>
+<!--Carousel End -->
     <!-- Location cards -->
   <div class="album py-5">
     <div class="container">
