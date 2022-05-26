@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
   <!--Carousel Start -->
-  <div id="myCarousel" class="carousel slide h-500px" data-bs-ride="carousel">
+  <div id="myCarousel" class="carousel  carousel-light slide h-500px" data-bs-ride="carousel">
     <!-- Carousel indicators -->
     <ol class="carousel-indicators">
         <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
@@ -13,24 +13,23 @@
     <div class="carousel-inner" style = "height: 500px;">
         <div class="carousel-item active" style = "height: 500px;">
             <img style="object-fit: cover; overflow: hidden; height: 500px;"src="imgs/baku.jpg" class="d-block w-100" alt="Slide 1" >
-            <div class="carousel-caption d-none d-md-block text-light">
-              <h5>Azerbaijan</h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipi sicing elit. Quibusdam, laudantium?  </p>
-
+            <div class="carousel-caption shadow-lg p-3 mb-5 bg-body-dark bg-dark rounded  text-light" style ="--bs-bg-opacity: .5;">
+              <h1>Azerbaijan</h1>
+              <h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab, excepturi!</h5>
             </div>
           </div>
           <div class="carousel-item" style = "height: 500px;">
               <img src="imgs/warsaw.jpeg" class="d-block w-100" alt="Slide 2">
-              <div class="carousel-caption d-none d-md-block text-light">
-                  <h5>Poland</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, voluptatem.</p>
+              <div class="carousel-caption shadow-lg p-3 mb-5 bg-body-dark bg-dark rounded  text-light" style ="--bs-bg-opacity: .5;">
+                  <h1>Poland</h1>
+                  <h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab, excepturi!</h5>
               </div>
           </div>
           <div class="carousel-item" style = "height: 500px;" >
-              <img src="imgs/ruski.jpg" class="d-block w-100 img-fluid" alt="Slide 3">
-              <div class="carousel-caption d-none d-md-block text-light">
-                  <h5>Russia</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, est.</p>
+              <img src="imgs/ruski.jpg" class="d-block w-100" alt="Slide 3">
+              <div class="carousel-caption shadow-lg p-3 mb-5 bg-body-dark bg-dark rounded  text-light" style ="--bs-bg-opacity: .5;">
+                  <h1>Russia</h1>
+                  <h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab, excepturi!</h5>
               </div>
           </div>
       </div>
@@ -104,7 +103,7 @@
   </div>
   <div class="container-fluid">
     <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/doo.jpg')">
-      <div class="col-lg-6 col-12 my-5 bg-dark p-5 m-5 text-light" style="--bs-bg-opacity: .5;">
+      <div class="col-lg-6 col-12 my-5 bg-dark p-5 m-5 text-dark" style="--bs-bg-opacity: .5;">
         <i class="fa-solid fa-quote-left text-white fs-3"></i>
         <p class="text-light fst-italic fw-bold">“You've gotta dance like there's nobody watching, love like you'll never be hurt, sing like there's nobody listening, and live like it's heaven on Earth.”</p>
         <div class="text-white fw-bold mx-3">William W. Purkey </div>
