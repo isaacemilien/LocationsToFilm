@@ -44,16 +44,16 @@
               <h6 class="text-uppercase fw-bold">Quick links to Products</h6>
               <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
               <p>
-                <a href="#!" class="text-white">Cameras</a>
+                <a href="#!" class="text-white text-decoration-none">Cameras</a>
               </p>
               <p>
-                <a href="#!" class="text-white"> Lighting Equipment</a>
+                <a href="#!" class="text-white text-decoration-none"> Lighting Equipment</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Permits</a>
+                <a href="#!" class="text-white text-decoration-none">Permits</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Merchandise</a>
+                <a href="#!" class="text-white text-decoration-none">Merchandise</a>
               </p>
             </div>
             <!-- Grid column -->
@@ -63,16 +63,16 @@
               <h6 class="text-uppercase fw-bold">Useful links</h6>
               <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #7c4dff; height: 2px" />
               <p>
-                <a href="#!" class="text-white">Services</a>
+                <a href="#!" class="text-white text-decoration-none">Services</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Work with us</a>
+                <a href="#!" class="text-white text-decoration-none">Work with us</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Privacy Policy</a>
+                <a href="#!" class="text-white text-decoration-none">Privacy Policy</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Help</a>
+                <a href="#!" class="text-white text-decoration-none">Help</a>
               </p>
             </div>
             <!-- Grid column -->
@@ -85,8 +85,8 @@
                 <i class="fas fa-home mr-3"></i> Ziya Bunyadov 1965, Chinar Park, Baku, AZ1000, Azerbaijan
               </p>
               <p>
-                <i class="fas fa-envelope mr-3 "><a href = "mailto: Enquiries@LocationsToFilm.com" class="text-light"></i> Enquiries@LocationsToFilm.com</a>
-              </p>
+                <i class="fas fa-envelope mr-3 "><a href = "mailto: Enquiries@LocationsToFilm.com" class="text-light text-decoration-none"></i> Enquiries@LocationsToFilm.com</a>
+              </p> 
               <p>
                 <i class="fas fa-phone mr-3"></i> +994 50 216 32 65
               </p>

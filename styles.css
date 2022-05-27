@@ -1,7 +1,4 @@
 .bg {
-  /* The image used */
-  background-image: url();
-
   /* Full height */
   height: 100%;
 
@@ -28,3 +25,5 @@ ul {
   list-style-position: inside;
   padding-left: 0;
 }
+
+
