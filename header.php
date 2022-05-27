@@ -27,7 +27,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse justify-content-end" id="NavBar">
+      <div class="collapse navbar-collapse justify-content-end" id="navbarsExample07XL">
         <ul class="nav navbar-nav mb-2 mb-lg-0">
           <!-- <li class="nav-item active px-2 ">
             <a class="nav-link" aria-current="page" href="azerbaijan.php">Azerbaijan</a>
