@@ -59,7 +59,7 @@
               <p class="card-text">Azerbaijan is a country located in the southern part of the Caucasus, at the crossroads of Southwest Asia and Southeastern Europe. It shares a border with Russia, Georgia, Armenia, Iran and its exclave with Turkey.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button onclick="window.location.href=''" type="button" class="btn btn-sm btn-primary">View</button>
+                  <button onclick="window.location.href=''" type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>
@@ -76,7 +76,7 @@
               <p class="card-text">Wander old medieval towns and gawp at the baroque architecture, taking in the charm as you walk through. With old-fashioned market squares, you'll soon notice yourself falling irreversibly in love with this country.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                  <button type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>
@@ -93,7 +93,7 @@
               <!-- Text -->
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                  <button type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>

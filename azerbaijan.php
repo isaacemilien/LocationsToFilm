@@ -24,7 +24,7 @@
               <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat deserunt incidunt cupiditate earum vel possimus quae quasi rerum aut error.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button onclick="window.location.href='./commercial-properties.php'" type="button" class="btn btn-sm btn-primary">View</button>
+                  <button onclick="window.location.href='./commercial-properties.php'" type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>
@@ -41,7 +41,7 @@
               <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat deserunt incidunt cupiditate earum vel possimus quae quasi rerum aut error.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                  <button type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@
               <!-- Text -->
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-primary">View</button>
+                  <button type="button" class="btn btn-sm btn-primary" style="background-color: #6351ce; border-color: #6351ce">View</button>
                 </div>
               </div>
             </div>
