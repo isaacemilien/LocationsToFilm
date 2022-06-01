@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
   <!--Carousel Start -->
-  <div id="myCarousel" class="carousel  carousel-light slide h-500px" data-bs-ride="carousel">
+  <div id="myCarousel" class="carousel d-none d-lg-block carousel-light slide h-500px" data-bs-ride="carousel">
     <!-- Carousel indicators -->
     <ol class="carousel-indicators">
         <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
@@ -42,7 +42,10 @@
           <span class="carousel-control-next-icon"></span>
       </a>
   </div>
+
 <!--Carousel End -->
+
+
     <!-- Location cards -->
   <div class="album py-5">
     <div class="container">
