@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
   <div class="container-fluid">
     <!-- Background -->
-    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/zzz.jpg')">
+    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/uk.jpg')">
       <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
         <h1></h1>
         <h1 class="fw-bold text-light">About Us</h1>
