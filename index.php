@@ -42,7 +42,10 @@
           <span class="carousel-control-next-icon"></span>
       </a>
   </div>
+
 <!--Carousel End -->
+
+
     <!-- Location cards -->
   <div class="album py-5">
     <div class="container">
