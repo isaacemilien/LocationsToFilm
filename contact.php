@@ -20,7 +20,7 @@
           Baku AZ1000</br>
           Azerbaijan</br>
           <h3>Telephone Number</h3>
-          <a class="fs-5" href="tel:+994 50 216 32 65">+994 50 216 32 65</a>
+          <a class="fs-5 text-decoration-none" style="color:black" href="tel:+994 50 216 32 65">+994 50 216 32 65</a>
         </p>
       </div>
     </div>
@@ -40,7 +40,7 @@
             West Sussex</br>
             RH16 3DT  </br>
             <h3>Telephone Number</h3>
-            <a class="fs-5" href="tel:+44 1444 440957">+44 1444 440957</a>
+            <a class="fs-5 text-decoration-none" style="color:white" href="tel:+44 1444 440957">+44 1444 440957</a>
           </p>
       </div>
     </div>
@@ -58,7 +58,7 @@
             90404</br>
             CA</br>
           <h3>Telephone Number</h3>
-          <a class="fs-5" href="tel:+1 424 295 9760">+1 424 295 9760</a>
+          <a class="fs-5 text-decoration-none" style="color:black" href="tel:+1 424 295 9760">+1 424 295 9760</a>
         </p>
       </div>
     </div>
@@ -77,7 +77,7 @@
             Dubai</br>
             United Arab Emirates</br>
             <h3>Telephone Number:</h3>
-            <a class="fs-5" href="tel:+971 52 375 80 85">+971 52 375 80 85</a>
+            <a class="fs-5 text-decoration-none" style="color:white" href="tel:+971 52 375 80 85">+971 52 375 80 85</a>
           </p>
       </div>
     </div>
@@ -87,13 +87,13 @@
   <div class="row justify-content-center">
     <div class="col-lg-5 my-5 p-5 m-5 d-flex justify-content-center">
       <div>
-        <h2>Azerbaijan</h2>
+        <h2>Poland</h2>
         <h3>Address</h5>
         <p class="fs-5"></h5>
           <p>Aleje Jerozolimskie 214</br>
           Warszawa</br>
           <h3>Telephone Number</h5>
-          <a class="fs-5" href="tel:+48 503 535 881">+48 503 535 881</a>
+          <a class="fs-5 text-decoration-none" style="color:black" href="tel:+48 503 535 881">+48 503 535 881</a>
         </p>
       </div>
     </div>

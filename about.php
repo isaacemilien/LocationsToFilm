@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
   <div class="container-fluid">
     <!-- Background -->
-    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/azer.jpg')">
+    <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/uk.jpg')">
       <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
         <h1></h1>
         <h1 class="fw-bold text-light">About Us</h1>
@@ -18,7 +18,7 @@
         </p>
       </div>
       <div class="col-lg-5 mt-5 me-5 pe-4 d-none d-lg-flex justify-content-center"> 
-        <img src="imgs/mmo.webp" class="img-fluid rounded-start">
+        <img src="imgs/x.jpg" class="img-fluid rounded-start">
       </div>
     </div>
   </div>
