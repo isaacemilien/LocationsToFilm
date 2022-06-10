@@ -2,27 +2,6 @@
 <footer class="text-center text-lg-start text-white bg-dark" style="background-color: #1c2331">
       <!-- Section: Social media -->
       <section class="d-flex justify-content-between p-4" style="background-color: #6351ce">
-        <!-- Left -->
-        <div class="me-5">
-          <span>Get connected with us on social networks:</span>
-        </div>
-        <!-- Left -->
-        <!-- Right -->
-        <div>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-google"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-instagram"></i>
-          </a>
-        </div>
-        <!-- Right -->
       </section>
       <!-- Section: Social media -->
       <!-- Section: Links  -->
