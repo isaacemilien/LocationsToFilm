@@ -1,7 +1,8 @@
 <?php include "header.php"; ?>
+<title>Locations to Film | Contact</title>
   <!-- Background -->
   <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/contact.jpg')">
-    <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5;">
+    <div class="col-lg-6 col-12 col-10 my-5 bg-dark p-5 m-5" style="--bs-bg-opacity: .5">
       <h1 class="fw-bold text-light" >Contact Us</h1>
       <p class="text-light d-none d-lg-block">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam sequi vitae cupiditate, eum temporibus voluptatem beatae architecto atque, vel accusantium voluptas quam nemo neque quia deserunt. Quis obcaecati odio esse.
@@ -25,13 +26,13 @@
       </div>
     </div>
     <div class="col-lg-5 mt-5 ms-5 pe-4 d-none d-lg-flex justify-content-center">
-      <span class="iconify" data-icon="fa6-solid:people-roof" data-width="300" data-height="300"></span>
+      <span class="iconify" data-icon="ic:baseline-email" data-width="350" data-height="350"></span>
     </div>
   </div>
   <!-- UK office -->
-  <div class="row bg h-100 d-lg-flex justify-content-lg-end justify-content-center" style="background-image: url('imgs/urban_01.jpg')">
+  <div class="row bg h-100 d-lg-flex justify-content-lg-end justify-content-center" style="background-image: url('imgs/or.jpg')">
     <div class="col-lg-6 col-12 my-5 p-5 m-5 text-light d-flex justify-content-center">
-      <div class="bg-dark p-4" style="--bs-bg-opacity: .5;">
+      <div class="bg-dark p-4" style="--bs-bg-opacity: .5">
           <h2>United Kingdom</h2>
           <h3>Address</h3>
           <p class = "fs-5">Commercial House</br>
@@ -63,14 +64,14 @@
       </div>
     </div>
     <div class="col-lg-5 mt-5 ms-5 pe-4 d-none d-lg-flex justify-content-center">
-      <span class="iconify" data-icon="fa6-solid:people-roof" data-width="300" data-height="300"></span>
+      <span class="iconify" data-icon="fluent:contact-card-16-filled" data-width="350" data-height="350"></span>
     </div>
   </div>
 
   <!-- Azerbaijan office -->
-  <div class="row bg h-100 d-lg-flex justify-content-lg-end justify-content-center" style="background-image: url('imgs/urban_02.jpg')">
+  <div class="row bg h-100 d-lg-flex justify-content-lg-end justify-content-center" style="background-image: url('imgs/op.jpg')">
     <div class="col-lg-6 col-12 my-5 p-5 m-5 text-light d-flex justify-content-center">
-      <div class="bg-dark p-4" style="--bs-bg-opacity: .5;">
+      <div class="bg-dark p-4" style="--bs-bg-opacity: .5">
           <h2>UAE</h2>
           <h3>Address</h3>
           <p class = "fs-5">Business Centre RAKEZ,</br>
@@ -98,7 +99,7 @@
       </div>
     </div>
     <div class="col-lg-5 mt-5 ms-5 pe-4 d-none d-lg-flex justify-content-center">
-      <span class="iconify" data-icon="fa6-solid:people-roof" data-width="300" data-height="300"></span>
+      <span class="iconify" data-icon="bi:pin-map-fill" data-width="350" data-height="350"></span>
     </div>
   </div>
 <?php include "footer.php"; ?>

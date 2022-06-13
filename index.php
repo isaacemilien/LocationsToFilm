@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
-
+<title>Locations to Film | Home</title>
   <!--Carousel Start -->
   <div id="myCarousel" class="carousel d-none d-lg-block carousel-light slide h-500px" data-bs-ride="carousel">
     <!-- Carousel indicators -->

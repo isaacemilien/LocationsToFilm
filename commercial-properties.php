@@ -1,4 +1,5 @@
 <?php include "header.php"; ?>
+<title>Locations to Film | Azerbaijan/Commercial Properties</title>
     <div class="container-fluid">
       <!-- Background -->
       <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/azer.jpg')">
