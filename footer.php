@@ -14,6 +14,7 @@
       <i class="fab fa-google text-white me-4"></i>
       <i class="fab fa-instagram text-white me-4"></i>
     </div>
+    
     <!-- Right -->
   </section>
   <!-- Section: Social media -->
