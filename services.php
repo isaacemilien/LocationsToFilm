@@ -1,4 +1,5 @@
 <?php include "header.php"; ?>
+<title>Locations to Film | Services</title>
   <!-- Background -->
   <div class="container-fluid">
     <div class="row bg h-100 d-lg-flex justify-content-lg-start justify-content-center" style="background-image: url('imgs/azer.jpg')">
